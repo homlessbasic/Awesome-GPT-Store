@@ -59,7 +59,9 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [ToonGPT](Turn drawings into illustrations!) - https://chat.openai.com/g/g-Jsefk8PeL-toongpt.
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Enhances tweets for better engagement.    
+- [Word Wizard](https://chat.openai.com/g/g-83YBVbpSb-word-wizard) - Like Wordle but realtime and multiplayered.
 
+  
 ## Education and Learning
 - [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor) - I guide chess strategy and visualize board states.
 - [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) - I am Magnus C·AI·rlsen, but I'll explain my moves.
